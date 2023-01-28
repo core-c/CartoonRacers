@@ -21,3 +21,5 @@ Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
 *.pdb
 *.exp
 *.exp
+
+Content/Maps/*_BuiltData.uasset
