@@ -16,7 +16,7 @@ DerivedDataCache
 Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
 
-
+*_BuildtData.uasset
 *.exe
 *.pdb
 *.exp
